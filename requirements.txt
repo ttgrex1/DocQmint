@@ -1,0 +1,7 @@
+tk
+python-dotenv
+requests
+numpy
+faiss-cpu
+langchain_community
+langchain_openai
