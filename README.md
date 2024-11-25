@@ -47,6 +47,8 @@ Before you install and run DocQmint, ensure you have the following dependencies:
 ### 1. Clone the Repository
 
 ```bash
+Change the name of example.env file to .env and edit the file by adding your Groq API key and your OpenAI API key
+
 git clone https://github.com/ttgrex1/DocQmint.git
 cd DocQmint
 2. Set Up a Virtual Environment (Optional but Recommended)
