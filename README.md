@@ -23,6 +23,10 @@ App Response:
 - **Secure API Key Management**: Easily add, delete, or update API keys with an admin-protected settings menu.
 - **Graphical Interface**: Intuitive GUI built with Tkinter for smooth navigation and interaction.
 - **Document Context Search**: Retrieve documents relevant to your query, with responses from the selected language model.
+- **Document Indexing**: DocQmint employs OpenAI's API for indexing, with an approximate cost of $0.01 per folder of documents.
+- **Language Model Interaction**: The tool utilizes Groq's LLMs for querying and interacting with the indexed data, benefiting from Groq's rapid inference speeds.
+- **API Key Management**: Users can securely manage their OpenAI and Groq API keys within the application.
+- **Use Cases**: DocQmint is ideal for research, customer support, and information management, offering efficient document retrieval (RAG) and chat-based interaction with indexed data.
 
 ---
 
